@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1528-shuffle-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1528-shuffle-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1528-shuffle-string) |
 | [2716-minimize-string-length](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2716-minimize-string-length) |
 ## Stack
 |  |
