@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3093-longest-common-suffix-queries](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3093-longest-common-suffix-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Linked List
 |  |
 | ------- |
