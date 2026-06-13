@@ -1,23 +1,20 @@
 class Solution(object):
-    def reverse(self, x: int) -> int:
+    def reverse(self, x):
+        flag = False
         rev = 0
-        
-        while x != 0:
-            # Extract last digit
-            digit = x % 10
-            
-            # Fix Python negative behavior
-            if x < 0 and digit > 0:
-                digit -= 10
-            
-            x = (x - digit) // 10
-            
-            # Overflow check
-            if rev > 214748364 or (rev == 214748364 and digit > 7):
-                return 0
-            if rev < -214748364 or (rev == -214748364 and digit < -8):
-                return 0
-            
-            rev = rev * 10 + digit
-        
+
+        if x < 0:
+            x = -x
+            flag = True
+
+        while x > 0:
+            last = x % 10
+            rev = rev * 10 + last
+            x = x // 10
+
+        if flag:
+            rev = -rev
+        if rev < -2**31 or rev > 2**31 - 1:
+            return 0
+
         return rev
