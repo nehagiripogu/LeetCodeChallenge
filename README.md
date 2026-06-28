@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2716-minimize-string-length) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Sorting
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
