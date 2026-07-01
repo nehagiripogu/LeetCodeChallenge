@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Quickselect
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -251,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
