@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
