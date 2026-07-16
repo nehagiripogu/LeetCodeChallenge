@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3842-toggle-light-bulbs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -379,4 +384,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
