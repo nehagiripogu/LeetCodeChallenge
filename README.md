@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
