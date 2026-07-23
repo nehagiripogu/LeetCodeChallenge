@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting
