@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Segment Tree
 |  |
