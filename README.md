@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2685-count-the-number-of-complete-components) |
