@@ -1,14 +1,25 @@
-class Solution(object):
+class Solution:
     def maxProfit(self, prices):
-        """
-        :type prices: List[int]
-        :rtype: int
-        """
-        min_price = prices[0]
-        max_profit = 0
-        for price in prices:
-            min_price = min(min_price, price)
-            profit = price - min_price
-            max_profit = max(max_profit, profit)
-        return max_profit
-        
+        n = len(prices)
+
+        dp = [[0, 0] for _ in range(n)]
+
+        # Day 0
+        dp[0][0] = 0
+        dp[0][1] = -prices[0]
+
+        for i in range(1, n):
+
+            # Don't hold stock
+            dp[i][0] = max(
+                dp[i-1][0],             # do nothing
+                dp[i-1][1] + prices[i]  # sell today
+            )
+
+            # Hold stock
+            dp[i][1] = max(
+                dp[i-1][1],             # continue holding
+                -prices[i]               # buy today
+            )
+
+        return dp[n-1][0]
