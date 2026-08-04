@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Queue
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -575,4 +579,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
