@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3842-toggle-light-bulbs) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
