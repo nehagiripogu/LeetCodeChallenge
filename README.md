@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2090-k-radius-subarray-averages](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2090-k-radius-subarray-averages) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -621,16 +626,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
