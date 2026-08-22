@@ -1,8 +1,7 @@
-class Solution(object):
-    def moveZeroes(self, nums):
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
         """
-        :type nums: List[int]
-        :rtype: None Do not return anything, modify nums in-place instead.
+        Do not return anything, modify nums in-place instead.
         """
         j=0
         for i in range(len(nums)):
@@ -10,4 +9,3 @@ class Solution(object):
                 nums[i],nums[j]=nums[j],nums[i]
                 j+=1
         return nums
-        
