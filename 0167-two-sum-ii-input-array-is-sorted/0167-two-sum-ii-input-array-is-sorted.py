@@ -5,12 +5,12 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        num_map={}
-        for i,num in enumerate(nums):
-            complement=target-num
-            if complement in num_map:
-                return [num_map[complement]+1,i+1]
-            num_map[num]=i
-        return None
-
-        
+        i=0
+        j=len(nums)-1
+        while i<j:
+            if nums[i]+nums[j]==target:
+                return [i+1,j+1]
+            if nums[i]+nums[j]>target:
+                j-=1
+            else:
+                i+=1
