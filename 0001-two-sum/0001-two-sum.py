@@ -5,12 +5,11 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        num_map={}
+        freq=set()
         for i,num in enumerate(nums):
-            complement=target-num
-            if complement in num_map:
-                return [num_map[complement],i]
-            num_map[num]=i
-        return None
-
+            need=target-nums[i]
+            if need in freq:
+                sec=nums.index(need)
+                return i, sec
+            freq.add(nums[i])
         
