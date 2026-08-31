@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0705-design-hashset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
