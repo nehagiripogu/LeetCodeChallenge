@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
