@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+| [0940-distinct-subsequences-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
