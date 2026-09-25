@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1386-cinema-seat-allocation) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+| [1096-brace-expansion-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0662-maximum-width-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -640,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
+| [1096-brace-expansion-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
