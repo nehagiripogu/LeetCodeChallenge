@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
