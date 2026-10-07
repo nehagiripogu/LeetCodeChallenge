@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
+| [0301-remove-invalid-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nehagiripogu/75DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
