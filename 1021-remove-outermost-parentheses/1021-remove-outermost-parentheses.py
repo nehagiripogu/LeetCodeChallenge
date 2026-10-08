@@ -1,21 +1,13 @@
-class Solution(object):
-    def removeOuterParentheses(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        result = []
-        depth = 0
+class Solution:
+    def removeOuterParentheses(self, s: str) -> str:
+        res, lvl = [], 0
 
-        for ch in s:
-            if ch == '(':
-                if depth > 0:
-                    result.append(ch)
-                depth += 1
-            else:  
-                depth -= 1
-                if depth > 0:
-                    result.append(ch)
-
-        return ''.join(result)
-        
+        for c in s:
+            if c == ")":
+                lvl -= 1
+            if lvl > 0:
+                res.append(c)
+            if c == "(":
+                lvl += 1
+                
+        return "".join(res)
